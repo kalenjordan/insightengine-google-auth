@@ -1,0 +1,1 @@
+<a href="/authorize.php">Authorize</a>
